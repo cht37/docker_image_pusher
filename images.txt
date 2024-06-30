@@ -4,4 +4,5 @@ seataio/seata-server:1.7.0
 nacos/nacos-server:v2.2.1
 flink:1.17
 flink:1.18.1-scala_2.12-java17
+docker.elastic.co/elasticsearch/elasticsearch:8.5.4
 
