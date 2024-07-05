@@ -5,4 +5,5 @@ nacos/nacos-server:v2.2.1
 flink:1.17
 flink:1.18.1-scala_2.12-java17
 elasticsearch:8.6.0
+hectorqin/reader
 
