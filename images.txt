@@ -1,2 +1,1 @@
-sequenceiq/hadoop-docker:2.7.1
-bitnami/spark:3.3
+apache/hadoop:3.4.1
